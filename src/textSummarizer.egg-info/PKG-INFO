@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.1
+Summary: python package for NLP text summarizer app
+Home-page: https://github.com/przbadu/nlp-text-summarizer
+Author: przbadu
+Author-email: przbadu.social@gmail.com
+Project-URL: Bug Tracker, https://github.com/przbadu/nlp-text-summarizer/issues
+
 # Introduction
 
 ## Project Setup
@@ -5,11 +14,7 @@
 - This project is using [uv](https://docs.astral.sh/uv/pip/environments/)
 
 ```sh
-# Activate the source
 source .venv/bin/activate
-
-# install packages
-uv pip install -r requirements.txt
 ```
 
 ## About torch with cuda
