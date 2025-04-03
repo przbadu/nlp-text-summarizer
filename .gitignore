@@ -1,2 +1,5 @@
 **/*.log
 **/*.pyc
+research/samsum_dataset
+samsum*.csv
+research/pegasus-samsum/
